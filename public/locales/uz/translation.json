@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home" : "Bosh sahifa",
+    "history" : "Ma'lumot",
+    "services" : "Xizmatlar",
+    "gallery" : "Gallery"
+  },
+  "button": {
+    "button" : "Qabul"
+  },
+  "banner": {
+    "title" : "Soch turmagi sizning ichki shaxsiyatingizni aks ettiradi"
+    },
+    "main": {
+      "subtitle" : "Sochingizni haqiqiy stilistlar qo'liga qoldiring. Sizning uslubingiz sizning kayfiyatingiz. Biz har doim sizning xizmatingizdamiz "
+    },
+    "button2": {
+      "button" : "Boshlash"
+    },
+    "history": {
+      "title": "Bizning"
+    },
+    "history_2": {
+      "title": "Maqsad"
+    },
+    "history2": {
+      "title": "O'quvchini sahifaning o'qilishi mumkin bo'lgan mazmuni chalg'itishi uzoq vaqtdan beri tasdiqlangan haqiqatdir qaraganida."
+    },
+    "hsbutton": {
+      "title": "Batafsil ma'lumot"
+    },
+    "servises": {
+      "title": "Bizning"
+    },
+    "servises2": {
+      "title": "Xizmatlar"
+    },
+    "card1": {
+      "card1": "Soch Olish"
+    },
+    "card_1": {
+      "title": "Soch kesish, yon tomonlarini to'g'rilash va har xil turdagi soch turmagi. Sochni bo'yash"
+    },
+    "card2": {
+      "card2": "Soqol olish"
+    },
+    "card_2": {
+      "title": "Soqol olish, tekislash, qisqartirish va bo'yash"
+    },
+    "card3": {
+      "card3": "Yuzni niqoblash"
+    },
+    "card_3": {
+      "title": "Ajinlar va dog'larni olib tashlash uchun yuz niqobi"
+    },
+    "gallery": {
+      "title": "Bizning"
+    },
+    "gallery2": {
+      "title": "Ishlar"
+    },
+    "contact": {
+      "title": "Bizning maqsadimiz odamlarni yaxshi ko'rinishga olib keilsh"
+    }
+}

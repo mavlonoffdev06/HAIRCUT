@@ -1,0 +1,30 @@
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.button {
+    width: 180px;
+    height: 70px;
+    border-radius: 20px;
+    background: #99BAED;
+    box-shadow: 0 5px 5px 5px  rgba(207, 220, 240, 0.533);
+    border: none;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.button:hover{
+    border: 1px solid #99BAED;
+    background-color: transparent;
+    color: #99BAED;
+    box-shadow: none;
+}
+@media screen and (max-width: 990px){
+    .container{
+        width: 90%;
+        margin: 0 auto;
+    }
+}

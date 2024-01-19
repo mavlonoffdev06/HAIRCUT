@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home" : "Home",
+    "history" : "Information",
+    "services" : "Services",
+    "gallery" : "Gallery"
+  },
+  "button": {
+    "button" : "Acceptance"
+  },
+  "banner": {
+    "title" : "Hairstyle reflects your inner personality"
+  },
+  "main": {
+    "subtitle" : "Leave your hair in the hands of real stylists. Your style is your mood. We are always at your service"
+  },
+  "button2": {
+    "button" : "Get Started"
+  },
+  "history": {
+    "title": "Our"
+  },
+  "history_2": {
+    "title": "Gola"
+  },
+  "history2": {
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page w hen looking at."
+  },
+  "hsbutton": {
+    "title": "Learn More"
+  },
+  "servises": {
+    "title": "Our"
+  },
+  "servises2": {
+    "title": " Services"
+  },
+  "card1": {
+    "card1": "Hair Cut"
+  },
+  "card_1": {
+    "title": "Haircuts, straightening the sides and different types of hairstyles. Hair coloring"
+  },
+  "card2": {
+    "card2": "Beard Cut"
+  },
+  "card_2": {
+    "title": "Shaving, straightening, shortening and coloring"
+  },
+  "card3": {
+    "card3": "Face mask"
+  },
+  "card_3": {
+    "title": "Face mask to remove wrinkles and blemishes"
+  },
+  "gallery": {
+    "title": "Our"
+  },
+  "gallery2": {
+    "title": "Gallery"
+  },
+  "contact": {
+    "title": "Our goal is to make people look good"
+  }
+}
